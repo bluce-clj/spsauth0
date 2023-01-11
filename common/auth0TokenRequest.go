@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/bluce-clj/spsauth0/internal/config"
+	"spsauth0/internal/config"
 	cv "github.com/nirasan/go-oauth-pkce-code-verifier"
 	"io"
 	"io/ioutil"

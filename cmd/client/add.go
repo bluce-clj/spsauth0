@@ -2,7 +2,7 @@ package client
 
 import (
 "fmt"
-"github.com/bluce-clj/spsauth0/common"
+"spsauth0/common"
 
 //"github.com/manifoldco/promptui"
 "os"
@@ -10,7 +10,7 @@ import (
 
 //"strconv"
 
-"github.com/bluce-clj/spsauth0/internal/config"
+"spsauth0/internal/config"
 "github.com/spf13/cobra"
 )
 

@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/bluce-clj/spsauth0/cmd"
+import "spsauth0/cmd"
 
 func main() {
 	cmd.Execute()
