@@ -17,7 +17,7 @@ package client
 
 import (
 	"fmt"
-	"github.com/SPSCommerce/spsauth0/internal/config"
+	"github.com/bluce-clj/spsauth0/internal/config"
 	"github.com/spf13/viper"
 	"os"
 	"path"

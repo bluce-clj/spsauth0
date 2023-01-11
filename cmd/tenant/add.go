@@ -2,12 +2,12 @@ package tenant
 
 import (
 	"fmt"
-	"github.com/SPSCommerce/spsauth0/common"
+	"github.com/bluce-clj/spsauth0/common"
 	"strings"
 
 	"os"
 
-	"github.com/SPSCommerce/spsauth0/internal/config"
+	"github.com/bluce-clj/spsauth0/internal/config"
 	"github.com/spf13/cobra"
 )
 

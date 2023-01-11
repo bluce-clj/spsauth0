@@ -4,7 +4,7 @@ import (
 "fmt"
 "os"
 
-"github.com/SPSCommerce/spsauth0/internal/config"
+"github.com/bluce-clj/spsauth0/internal/config"
 "github.com/olekukonko/tablewriter"
 "github.com/spf13/cobra"
 )

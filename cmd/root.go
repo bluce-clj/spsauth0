@@ -17,9 +17,9 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/SPSCommerce/spsauth0/cmd/client"
-	"github.com/SPSCommerce/spsauth0/cmd/tenant"
-	"github.com/SPSCommerce/spsauth0/internal/config"
+	"github.com/bluce-clj/spsauth0/cmd/client"
+	"github.com/bluce-clj/spsauth0/cmd/tenant"
+	"github.com/bluce-clj/spsauth0/internal/config"
 	"github.com/spf13/cobra"
 	"os"
 	"sync"

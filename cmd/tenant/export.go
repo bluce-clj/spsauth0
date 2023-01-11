@@ -3,8 +3,8 @@ package tenant
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/SPSCommerce/spsauth0/common"
-	"github.com/SPSCommerce/spsauth0/internal/config"
+	"github.com/bluce-clj/spsauth0/common"
+	"github.com/bluce-clj/spsauth0/internal/config"
 	"github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
